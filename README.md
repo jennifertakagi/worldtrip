@@ -1,3 +1,5 @@
+<!-- Inspired by https://github.com/jennifertakagi/REPO_NAME -->
+
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -6,13 +8,11 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/jennifertakagi/worldtrip">
-    <img src="docs/logo.png" alt="Logo" width="80" height="80">
+    <img src="docs/logo.png" alt="Logo" width="120" height="100">
   </a>
 
   <h3 align="center">WorldTrip</h3>
@@ -112,7 +112,7 @@ Features:
 3. Run the following commands in root folder start the application in a development environment:
    ```sh
    yarn server | npm run server and yarn dev | npm run dev
- ```
+   ```
 
 
 <!-- USAGE EXAMPLES -->
