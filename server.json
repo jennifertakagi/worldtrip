@@ -1,0 +1,238 @@
+{
+  "continents": [
+    {
+      "slug": "africa",
+      "name": "Africa",
+      "description": "In Africa, there are countries with large economies, leveraged by the presence of mineral reserves, oil and natural gas and also the development of agricultural activities.",
+      "bannerImage": "https://source.unsplash.com/T-LfvX-7IVg",
+      "amountCountries": 54,
+      "mostPopularCities": [
+        {
+          "cityName": "Lagos",
+          "countryName": "Niger",
+          "countryCode": "NE",
+          "cityImage": "https://source.unsplash.com/67ruAEYmp4c"
+        },
+        {
+          "cityName": "Cairo",
+          "countryName": "Egypt",
+          "countryCode": "EG",
+          "cityImage": "https://source.unsplash.com/boyXZfqpwpU"
+        },
+        {
+          "cityName": "Kinshasa",
+          "countryName": "DR Congo",
+          "countryCode": "CD",
+          "cityImage": "https://source.unsplash.com/30jwRvIIenw"
+        },
+        {
+          "cityName": "Luanda",
+          "countryName": "Angola",
+          "countryCode": "AO",
+          "cityImage": "https://source.unsplash.com/glhVDncQmhE"
+        },
+        {
+          "cityName": "Nairobi",
+          "countryName": "Kenya",
+          "countryCode": "KE",
+          "cityImage": "https://source.unsplash.com/juex154AuVA"
+        }
+      ]
+    },
+    {
+      "slug": "asia",
+      "name": "Asia",
+      "description": "The countries of Asia are the nations that make up the Asian continent, located east of the European continent and northeast of the African continent.",
+      "bannerImage": "https://source.unsplash.com/MsMISAIe8Qw",
+      "amountCountries": 51,
+      "mostPopularCities": [
+        {
+          "cityName": "Tokyo",
+          "countryName": "Japan",
+          "countryCode": "JP",
+          "cityImage": "https://source.unsplash.com/_noSmX8Kgoo"
+        },
+        {
+          "cityName": "Delhi",
+          "countryName": "India",
+          "countryCode": "IN",
+          "cityImage": "https://source.unsplash.com/iR9xWm1JK20"
+        },
+        {
+          "cityName": "Shanghai",
+          "countryName": "China",
+          "countryCode": "CN",
+          "cityImage": "https://source.unsplash.com/5h_dMuX_7RE"
+        },
+        {
+          "cityName": "Beijing",
+          "countryName": "China",
+          "countryCode": "CN",
+          "cityImage": "https://source.unsplash.com/yBroAF1cN3I"
+        },
+        {
+          "cityName": "Mumbai",
+          "countryName": "India",
+          "countryCode": "IN",
+          "cityImage": "https://source.unsplash.com/Cgek9WqrA9c"
+        }
+      ]
+    },
+    {
+      "slug": "europe",
+      "name": "Europe",
+      "description": "Europe has a large number of countries and consequently is quite diverse according to various criteria, such as cultural, geographic, political and economic aspects.",
+      "bannerImage": "https://source.unsplash.com/QboRVYU6sfQ",
+      "amountCountries": 50,
+      "mostPopularCities": [
+        {
+          "cityName": "Istanbul",
+          "countryName": "Turkey",
+          "countryCode": "TUR",
+          "cityImage": "https://source.unsplash.com/3-QB-YKxTKY"
+        },
+        {
+          "cityName": "Moscow",
+          "countryName": "Russia",
+          "countryCode": "RU",
+          "cityImage": "https://source.unsplash.com/1K8pWXiRyIA"
+        },
+        {
+          "cityName": "Paris",
+          "countryName": "France",
+          "countryCode": "FR",
+          "cityImage": "https://source.unsplash.com/milUxSbp4_A"
+        },
+        {
+          "cityName": "London",
+          "countryName": "United Kingdom",
+          "countryCode": "UK",
+          "cityImage": "https://source.unsplash.com/Q6UehpkBSnQ"
+        },
+        {
+          "cityName": "Madrid",
+          "countryName": "Spain",
+          "countryCode": "ES",
+          "cityImage": "https://source.unsplash.com/xkjAWtxPNmg"
+        }
+      ]
+    },
+    {
+      "slug": "north-america",
+      "name": "North America",
+      "description": "North America is located in the far north of the Americas and is made up of just three countries. The United States, which is the world's greatest power; Mexico, on the other hand, is a developing country, that is, emerging.",
+      "bannerImage": "https://source.unsplash.com/1UN0YVHcIlU",
+      "amountCountries": 3,
+      "mostPopularCities": [
+        {
+          "cityName": "Mexico City",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "cityImage": "https://source.unsplash.com/7LDBKPWAHJ4"
+        },
+        {
+          "cityName": "New York",
+          "countryName": "United States ",
+          "countryCode": "USA",
+          "cityImage": "https://source.unsplash.com/5omwAMDxmkU"
+        },
+        {
+          "cityName": "Los Angeles",
+          "countryName": "United States ",
+          "countryCode": "USA",
+          "cityImage": "https://source.unsplash.com/aNrRsB2wLDk"
+        },
+        {
+          "cityName": "Chicago",
+          "countryName": "United States ",
+          "countryCode": "USA",
+          "cityImage": "https://source.unsplash.com/XXA8PTuLD1Y"
+        },
+        {
+          "cityName": "Dallas",
+          "countryName": "United States ",
+          "countryCode": "USA",
+          "cityImage": "https://source.unsplash.com/sdeV8lqOyjs"
+        }
+      ]
+    },
+    {
+      "slug": "oceania",
+      "name": "Oceania",
+      "description": "The countries of Oceania are the nations that are part of Oceania, one of the five continents in the world and also the smallest of them.",
+      "bannerImage": "https://source.unsplash.com/x_H-9suOpck",
+      "amountCountries": 14,
+      "mostPopularCities": [
+        {
+          "cityName": "Sydney",
+          "countryName": "Australia",
+          "countryCode": "AU",
+          "cityImage": "https://source.unsplash.com/7Zb7kUyQg1E"
+        },
+        {
+          "cityName": "Melbourne",
+          "countryName": "Australia",
+          "countryCode": "AU",
+          "cityImage": "https://source.unsplash.com/DKpBoUVpBM4"
+        },
+        {
+          "cityName": "Brisbane",
+          "countryName": "Australia",
+          "countryCode": "AU",
+          "cityImage": "https://source.unsplash.com/fgy0t-QHLcQ"
+        },
+        {
+          "cityName": "Perth",
+          "countryName": "Australia",
+          "countryCode": "AU",
+          "cityImage": "https://source.unsplash.com/ymgOYi8mroc"
+        },
+        {
+          "cityName": "Auckland",
+          "countryName": "New Zealand",
+          "countryCode": "NZ",
+          "cityImage": "https://source.unsplash.com/hIKVSVKH7No"
+        }
+      ]
+    },
+    {
+      "slug": "south-america",
+      "name": "South America",
+      "description": "South America borders Central America through the Colombia-Panama border. This subcontinent joins North America by the central isthmus and is separated from Antarctica by the Drake Straits.",
+      "bannerImage": "https://source.unsplash.com/HSAItzUiSrg",
+      "amountCountries": 13,
+      "mostPopularCities": [
+        {
+          "cityName": "Buenos Aires",
+          "countryName": "Argentina",
+          "countryCode": "AR",
+          "cityImage": "https://source.unsplash.com/VynkVKneWJA"
+        },
+        {
+          "cityName": "Rio de Janeiro",
+          "countryName": "Brazil",
+          "countryCode": "BR",
+          "cityImage": "https://source.unsplash.com/7F65HDP0-E0"
+        },
+        {
+          "cityName": "Santiago",
+          "countryName": "Chile",
+          "countryCode": "CL",
+          "cityImage": "https://source.unsplash.com/jjrfEi_k1IY"
+        },
+        {
+          "cityName": "Sao Paulo",
+          "countryName": "Brazil",
+          "countryCode": "BR",
+          "cityImage": "https://source.unsplash.com/LgMo1E7EvKc"
+        },
+        {
+          "cityName": "Bogota",
+          "countryName": "Colombia",
+          "countryCode": "CO",
+          "cityImage": "https://source.unsplash.com/QmxXYlyYgL8"
+        }
+      ]
+    }
+  ]
+}
