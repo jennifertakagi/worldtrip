@@ -88,7 +88,7 @@
         {
           "cityName": "Istanbul",
           "countryName": "Turkey",
-          "countryCode": "TUR",
+          "countryCode": "TR",
           "cityImage": "https://source.unsplash.com/3-QB-YKxTKY"
         },
         {
@@ -106,7 +106,7 @@
         {
           "cityName": "London",
           "countryName": "United Kingdom",
-          "countryCode": "UK",
+          "countryCode": "GB",
           "cityImage": "https://source.unsplash.com/Q6UehpkBSnQ"
         },
         {
@@ -133,25 +133,25 @@
         {
           "cityName": "New York",
           "countryName": "United States ",
-          "countryCode": "USA",
+          "countryCode": "US",
           "cityImage": "https://source.unsplash.com/5omwAMDxmkU"
         },
         {
           "cityName": "Los Angeles",
           "countryName": "United States ",
-          "countryCode": "USA",
+          "countryCode": "US",
           "cityImage": "https://source.unsplash.com/aNrRsB2wLDk"
         },
         {
           "cityName": "Chicago",
           "countryName": "United States ",
-          "countryCode": "USA",
+          "countryCode": "US",
           "cityImage": "https://source.unsplash.com/XXA8PTuLD1Y"
         },
         {
           "cityName": "Dallas",
           "countryName": "United States ",
-          "countryCode": "USA",
+          "countryCode": "US",
           "cityImage": "https://source.unsplash.com/sdeV8lqOyjs"
         }
       ]
